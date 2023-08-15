@@ -1,2 +1,3 @@
-# Project_4---Group_9
+# PAWFECT MATCH
+## Project 4 > Group 7
 ![Stock Image](Images/stock.jpg)
