@@ -1,44 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Build Test V0.2: Drop-Down Menu + Radar Plot 1</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
-
-<div id="radar-chart"></div>
-
-<script>
-  // Fetch the CSV data
-  Plotly.d3.csv("https://raw.githubusercontent.com/TinTesla/Project_4---Group_7/c04e97f20b6e748dc388cd3fee9f6295edeb639d/Data/Test/Outputs/Scaled_Filtered_df.csv", function(data) {
-    
-    // Extract data for the radar chart
-    var rValues = data.map(row => row["All Row averages"]);
-    var thetaValues = data.map(row => row["Titles"]);
-
-    // Create the radar chart
-    var radarData = [{
-      type: 'scatterpolar',
-      r: rValues,
-      theta: thetaValues,
-      fill: 'toself',
-      line: {
-        color: 'red',
-        dash: 'solid'
-      }
-    }];
-
-    var layout = {
-      polar: {
-        radialaxis: {
-          visible: true
-        }
-      },
-      title: 'Radar Chart'
-    };
-
-    Plotly.newPlot('radar-chart', radarData, layout);
-  });
-</script>
-
+    <h1>Build Test V0.2: Drop-Down Menu + Radar Plot 1</h1>
+    <label for="breedSelect">Select a Breed:</label>
+    <select id="breedSelect">
+        <option value="">Select a breed...</option>
+    </select>
+    <div id="radarChartContainer"></div>
+    <script src="app.js"></script>
 </body>
 </html>
