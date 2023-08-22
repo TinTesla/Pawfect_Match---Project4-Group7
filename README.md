@@ -4,8 +4,8 @@
 
 
 ### Home Page
--Basic Overview
--User Questionaire
+- Basic Overview
+- User Questionaire
 
 ### Explore Dog Breeds
 - Database plotted based on % of max Value per Column
