@@ -1,6 +1,6 @@
 ## PAWFECT MATCH
 ## Project 4 > Group 7
-![Stock Image](Images/stock.jpg)
+![Stock Image](Local/Images/stock.jpg)
 
 
 ### Home Page
