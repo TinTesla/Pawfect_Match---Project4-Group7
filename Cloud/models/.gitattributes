@@ -1,2 +1,0 @@
-dog_app_rf_breed_ored.sav filter=lfs diff=lfs merge=lfs -text
-dog_app_rf_breed_pred.sav filter=lfs diff=lfs merge=lfs -text
