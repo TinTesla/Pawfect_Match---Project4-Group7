@@ -1,0 +1,278 @@
+breed_values,breed
+0,Staffordshire Bull Terrier
+1,Dogo Argentino
+2,Rottweiler
+3,Affenpinscher
+4,Border Collie
+5,Lapponian Herder
+6,Golden Retriever
+7,Kerry Blue Terrier
+8,Teddy Roosevelt Terrier
+9,Braque Francais Pyrenean
+10,West Highland White Terrier
+11,Bavarian Mountain Scent Hound
+12,Xoloitzcuintli
+13,Bichon Frise
+14,Chinook
+15,Working Kelpie
+16,Shih Tzu
+17,Australian Kelpie
+18,Lhasa Apso
+19,Havanese
+20,American Eskimo Dog
+21,English Setter
+22,Greater Swiss Mountain Dog
+23,Scottish Deerhound
+24,Boykin Spaniel
+25,Shiba Inu
+26,Belgian Sheepdog
+27,Whippet
+28,Bullmastiff
+29,Belgian Laekenois
+30,Neapolitan Mastiff
+31,Wetterhoun
+32,Lancashire Heeler
+33,Jindo
+34,Transylvanian Hound
+35,Perro de Presa Canario
+36,German Shepherd Dog
+37,Miniature Pinscher
+38,Anatolian Shepherd Dog
+39,Alaskan Malamute
+40,Pharaoh Hound
+41,Bloodhound
+42,American Staffordshire Terrier
+43,Poodle (Toy)
+44,Bohemian Shepherd
+45,Borzoi
+46,Pekingese
+47,Doberman Pinscher
+48,Kai Ken
+49,Wirehaired Vizsla
+50,Cesky Terrier
+51,Finnish Spitz
+52,French Bulldog
+53,Carolina Dog
+54,Vizsla
+55,Papillon
+56,Norrbottenspets
+57,Sloughi
+58,German Pinscher
+59,French Spaniel
+60,Schapendoes
+61,Great Dane
+62,Leonberger
+63,Manchester Terrier (Standard)
+64,Slovensky Cuvac
+65,Porcelaine
+66,Standard Schnauzer
+67,Danish-Swedish Farmdog
+68,Australian Cattle Dog
+69,Cavalier King Charles Spaniel
+70,Dutch Shepherd
+71,Spinone Italiano
+72,Siberian Husky
+73,German Wirehaired Pointer
+74,Belgian Tervuren
+75,Pembroke Welsh Corgi
+76,Boxer
+77,Sealyham Terrier
+78,Thai Ridgeback
+79,Irish Setter
+80,Appenzeller Sennenhund
+81,Poodle (Miniature)
+82,Newfoundland
+83,Eurasier
+84,Field Spaniel
+85,Estrela Mountain Dog
+86,Karelian Bear Dog
+87,Cardigan Welsh Corgi
+88,Cairn Terrier
+89,German Spitz
+90,Small Munsterlander Pointer
+91,Giant Schnauzer
+92,Norwich Terrier
+93,Gordon Setter
+94,Yakutian Laika
+95,Romanian Mioritic Shepherd Dog
+96,Norwegian Buhund
+97,Smooth Fox Terrier
+98,Cane Corso
+99,Norwegian Lundehund
+100,English Foxhound
+101,Japanese Chin
+102,Russell Terrier
+103,Basset Hound
+104,Kromfohrlander
+105,Belgian Malinois
+106,Hamiltonstovare
+107,Miniature American Shepherd
+108,Central Asian Shepherd Dog
+109,Shetland Sheepdog
+110,German Shorthaired Pointer
+111,Black Russian Terrier
+112,Czechoslovakian Vlcak
+113,Parson Russell Terrier
+114,Pyrenean Shepherd
+115,Bernese Mountain Dog
+116,Drever
+117,Nederlandse Kooikerhondje
+118,American Water Spaniel
+119,Bedlington Terrier
+120,Welsh Terrier
+121,Manchester Terrier (Toy)
+122,Jagdterrier
+123,Cocker Spaniel
+124,Norfolk Terrier
+125,Treeing Walker Coonhound
+126,Afghan Hound
+127,Brussels Griffon
+128,Stabyhoun
+129,Biewer Terrier
+130,Pointer
+131,Polish Lowland Sheepdog
+132,Coton de Tulear
+133,Welsh Springer Spaniel
+134,Pug
+135,Mastiff
+136,Great Pyrenees
+137,Shikoku
+138,Poodle (Standard)
+139,Puli
+140,Collie
+141,Irish Red and White Setter
+142,Taiwan Dog
+143,Irish Wolfhound
+144,Pumi
+145,Portuguese Podengo Pequeno
+146,Slovakian Wirehaired Pointer
+147,Mudi
+148,Labrador Retriever
+149,Tosa
+150,Norwegian Elkhound
+151,Bracco Italiano
+152,Boston Terrier
+153,Swedish Lapphund
+154,Deutscher Wachtelhund
+155,Bouvier des Flandres
+156,Bull Terrier
+157,Miniature Schnauzer
+158,Pudelpointer
+159,Australian Terrier
+160,Australian Shepherd
+161,Italian Greyhound
+162,Komondor
+163,Treeing Tennessee Brindle
+164,Portuguese Pointer
+165,Clumber Spaniel
+166,Caucasian Shepherd Dog
+167,Dandie Dinmont Terrier
+168,Bolognese
+169,Mountain Cur
+170,Chinese Crested
+171,Old English Sheepdog
+172,Tibetan Terrier
+173,Nova Scotia Duck Tolling Retriever
+174,Airedale Terrier
+175,Hokkaido
+176,Bluetick Coonhound
+177,Barbet
+178,Braque du Bourbonnais
+179,Hanoverian Scenthound
+180,Portuguese Sheepdog
+181,English Springer Spaniel
+182,Beauceron
+183,Japanese Spitz
+184,Chesapeake Bay Retriever
+185,Glen of Imaal Terrier
+186,Lowchen
+187,Spanish Mastiff
+188,American Hairless Terrier
+189,Finnish Lapphund
+190,Dogue de Bordeaux
+191,Lakeland Terrier
+192,German Longhaired Pointer
+193,Saluki
+194,Croatian Sheepdog
+195,Broholmer
+196,Chow Chow
+197,Boerboel
+198,Russian Tsvetnaya Bolonka
+199,Miniature Bull Terrier
+200,Schipperke
+201,Catahoula Leopard Dog
+202,Dalmatian
+203,Portuguese Water Dog
+204,Curly-Coated Retriever
+205,Keeshond
+206,Scottish Terrier
+207,American Leopard Hound
+208,Brittany
+209,Australian Stumpy Tail Cattle Dog
+210,Berger Picard
+211,Sussex Spaniel
+212,Rafeiro do Alentejo
+213,Portuguese Podengo
+214,Irish Terrier
+215,Flat-Coated Retriever
+216,Akita
+217,Otterhound
+218,Redbone Coonhound
+219,Canaan Dog
+220,Slovensky Kopov
+221,Briard
+222,Entlebucher Mountain Dog
+223,Harrier
+224,Border Terrier
+225,Swedish Vallhund
+226,American English Coonhound
+227,Icelandic Sheepdog
+228,Pyrenean Mastiff
+229,Soft Coated Wheaten Terrier
+230,Azawakh
+231,American Bulldog
+232,Tornjak
+233,Greyhound
+234,Dachshund
+235,Bulldog
+236,Tibetan Mastiff
+237,Basenji
+238,Toy Fox Terrier
+239,Kishu Ken
+240,Grand Basset Griffon Vendeen
+241,Hovawart
+242,Kuvasz
+243,Cirneco dell Etna
+244,Bergamasco Sheepdog
+245,Bearded Collie
+246,Spanish Water Dog
+247,American Foxhound
+248,Ibizan Hound
+249,Chihuahua
+250,English Toy Spaniel
+251,Skye Terrier
+252,English Cocker Spaniel
+253,Segugio Italiano
+254,Petit Basset Griffon Vendeen
+255,Samoyed
+256,Peruvian Inca Orchid
+257,Black and Tan Coonhound
+258,Basset Fauve de Bretagne
+259,Yorkshire Terrier
+260,Wirehaired Pointing Griffon
+261,Wire Fox Terrier
+262,Saint Bernard
+263,Russian Toy
+264,Beagle
+265,Rat Terrier
+266,Pomeranian
+267,Rhodesian Ridgeback
+268,Maltese
+269,Weimaraner
+270,Drentsche Patrijshond
+271,Plott Hound
+272,Lagotto Romagnolo
+273,Chinese Shar-Pei
+274,Silky Terrier
+275,Irish Water Spaniel
+276,Tibetan Spaniel

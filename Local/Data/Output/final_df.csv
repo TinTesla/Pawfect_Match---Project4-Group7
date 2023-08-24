@@ -1,0 +1,278 @@
+Breed,Breed Group,Ranking,Height (avg),Weight (avg),Lifespan (avg),Grooming Frequency (value),Shedding (value),Energy Level (value),Trainability (value),Demeanor (value)
+Affenpinscher,Toy Group,148.0,11.0,9.5,13.5,0.6,0.6,0.6,0.8,1.0
+Afghan Hound,Hound Group,113.0,26.0,55.0,13.5,0.8,0.2,0.8,0.2,0.2
+Airedale Terrier,Terrier Group,60.0,22.0,47.0,12.5,0.6,0.4,0.6,1.0,0.8
+Akita,Working Group,47.0,26.0,100.0,11.5,0.8,0.6,0.8,1.0,0.6
+Alaskan Malamute,Working Group,58.0,24.0,80.0,12.0,0.6,0.6,0.8,0.4,0.8
+American Bulldog,Foundation Stock Service,0.0,22.5,80.0,11.0,0.2,0.6,0.8,0.6,0.6
+American English Coonhound,Hound Group,175.0,24.0,65.0,11.5,0.2,0.4,0.8,0.6,0.6
+American Eskimo Dog,Non-Sporting Group,122.0,16.5,26.5,14.0,0.4,0.6,0.8,1.0,1.0
+American Foxhound,Hound Group,186.0,23.0,65.0,12.0,0.2,0.6,0.8,0.4,0.8
+American Hairless Terrier,Terrier Group,136.0,14.0,18.0,15.0,0.2,0.2,0.8,0.4,0.6
+American Leopard Hound,Foundation Stock Service,0.0,24.0,55.0,13.5,0.4,0.6,0.8,1.0,0.6
+American Staffordshire Terrier,Terrier Group,85.0,18.0,55.0,14.0,0.2,0.4,0.6,0.6,0.6
+American Water Spaniel,Sporting Group,166.0,16.5,35.0,12.0,0.6,0.2,0.6,1.0,0.8
+Anatolian Shepherd Dog,Working Group,90.0,29.5,115.5,12.0,0.4,0.6,0.6,0.4,0.4
+Appenzeller Sennenhund,Foundation Stock Service,0.0,21.0,50.0,13.5,0.4,0.8,1.0,0.2,0.4
+Australian Cattle Dog,Herding Group,55.0,18.5,41.5,14.0,0.2,0.8,1.0,0.2,0.4
+Australian Kelpie,Foundation Stock Service,0.0,20.0,35.0,11.5,0.4,0.8,0.8,1.0,0.6
+Australian Shepherd,Herding Group,17.0,20.5,52.5,13.5,0.4,0.6,0.8,1.0,0.6
+Australian Stumpy Tail Cattle Dog,Foundation Stock Service,0.0,18.5,38.5,13.5,0.4,0.4,0.8,0.8,0.6
+Australian Terrier,Terrier Group,140.0,10.5,17.5,13.0,0.4,0.2,0.8,0.6,0.8
+Azawakh,Hound Group,0.0,26.0,41.0,13.5,0.4,0.4,0.6,0.4,0.8
+Barbet,Sporting Group,0.0,22.0,50.0,13.0,0.4,0.2,0.6,0.6,0.8
+Basenji,Hound Group,87.0,16.5,23.0,13.5,0.2,0.4,0.8,0.4,0.4
+Basset Fauve de Bretagne,Foundation Stock Service,0.0,14.0,31.0,12.0,0.4,0.6,0.6,0.2,1.0
+Basset Hound,Hound Group,39.0,14.0,60.0,12.5,0.6,0.4,0.2,0.4,0.8
+Bavarian Mountain Scent Hound,Foundation Stock Service,0.0,19.0,51.5,13.5,0.4,0.8,0.6,0.6,0.4
+Beagle,Hound Group,6.0,15.0,23.5,12.5,0.6,0.6,0.8,0.6,0.8
+Bearded Collie,Herding Group,127.0,21.0,50.0,13.0,0.8,0.6,0.6,0.4,1.0
+Beauceron,Herding Group,124.0,26.0,90.0,11.0,0.6,1.0,1.0,0.8,0.4
+Bedlington Terrier,Terrier Group,141.0,16.5,20.0,13.5,0.6,0.4,0.8,0.6,0.6
+Belgian Laekenois,Miscellaneous Class,0.0,24.0,60.0,11.0,0.4,0.8,0.8,0.8,0.4
+Belgian Malinois,Herding Group,43.0,24.0,60.0,15.0,0.4,0.6,0.8,0.8,0.4
+Belgian Sheepdog,Herding Group,125.0,24.0,60.0,13.0,0.6,0.6,0.8,0.8,0.4
+Belgian Tervuren,Herding Group,106.0,24.0,60.0,13.0,0.6,0.6,0.8,0.8,0.4
+Bergamasco Sheepdog,Herding Group,187.0,23.0,70.5,14.0,0.2,0.2,0.4,0.6,0.4
+Berger Picard,Herding Group,144.0,23.5,60.0,12.5,0.2,0.6,1.0,0.8,0.6
+Bernese Mountain Dog,Working Group,22.0,24.0,130.0,8.5,0.6,1.0,0.8,0.8,0.4
+Bichon Frise,Non-Sporting Group,46.0,10.5,15.0,14.5,1.0,0.2,0.6,0.6,1.0
+Biewer Terrier,Miscellaneous Class,0.0,9.0,6.0,16.0,0.6,0.4,0.4,1.0,1.0
+Black Russian Terrier,Working Group,118.0,28.0,105.0,11.0,0.8,0.6,0.8,0.8,0.4
+Black and Tan Coonhound,Hound Group,138.0,24.5,57.5,11.0,0.4,0.6,0.6,0.4,0.8
+Bloodhound,Hound Group,49.0,25.0,95.0,11.0,0.4,0.6,0.6,0.4,0.6
+Bluetick Coonhound,Hound Group,130.0,24.0,62.5,11.5,0.4,0.6,0.8,0.6,0.8
+Boerboel,Working Group,121.0,24.5,175.0,10.0,0.2,0.4,0.4,0.6,0.4
+Bohemian Shepherd,Foundation Stock Service,0.0,20.5,48.5,13.5,0.2,0.4,0.6,0.8,0.6
+Bolognese,Foundation Stock Service,0.0,11.0,8.0,13.0,0.6,0.2,0.4,0.6,0.8
+Border Collie,Herding Group,35.0,20.5,45.0,13.5,0.6,0.6,1.0,1.0,0.4
+Border Terrier,Terrier Group,88.0,13.5,15.5,13.5,0.4,0.4,0.6,0.8,0.8
+Borzoi,Hound Group,103.0,27.0,82.5,11.5,0.4,0.6,0.8,0.4,0.6
+Boston Terrier,Non-Sporting Group,21.0,16.0,18.5,12.0,0.4,0.2,0.6,1.0,1.0
+Bouvier des Flandres,Herding Group,84.0,25.5,75.0,11.0,0.8,0.6,0.8,0.6,0.6
+Boxer,Working Group,11.0,23.0,61.5,11.0,0.4,0.4,0.8,0.8,1.0
+Boykin Spaniel,Sporting Group,100.0,16.0,32.5,12.5,0.6,0.6,0.6,1.0,0.6
+Bracco Italiano,Miscellaneous Class,0.0,24.0,72.5,12.0,0.2,0.4,0.8,0.8,0.6
+Braque Francais Pyrenean,Foundation Stock Service,0.0,20.5,47.5,13.0,0.2,0.6,1.0,0.4,0.8
+Braque du Bourbonnais,Foundation Stock Service,0.0,20.5,45.0,11.0,0.2,0.4,0.6,1.0,0.6
+Briard,Herding Group,132.0,24.5,75.0,12.0,0.8,0.2,0.6,0.4,0.4
+Brittany,Sporting Group,26.0,19.5,35.0,13.0,0.6,0.6,1.0,1.0,0.8
+Broholmer,Foundation Stock Service,0.0,28.5,120.0,9.0,0.2,0.6,0.4,0.4,0.8
+Brussels Griffon,Toy Group,98.0,8.5,9.0,13.5,0.6,0.6,0.6,0.6,0.8
+Bull Terrier,Terrier Group,62.0,19.5,45.0,12.5,0.4,0.6,0.8,0.4,0.8
+Bulldog,Non-Sporting Group,5.0,14.5,45.0,9.0,0.6,0.8,0.6,0.6,0.8
+Bullmastiff,Working Group,51.0,25.5,115.0,8.0,0.2,0.6,0.8,0.6,0.6
+Cairn Terrier,Terrier Group,69.0,9.5,14.0,14.0,0.4,0.4,0.6,0.6,0.8
+Canaan Dog,Herding Group,179.0,21.5,45.0,13.5,0.4,1.0,0.6,0.4,0.4
+Cane Corso,Working Group,32.0,25.5,105.0,10.5,0.2,0.4,0.8,0.6,0.6
+Cardigan Welsh Corgi,Herding Group,68.0,11.5,31.5,13.5,0.4,0.6,0.8,0.6,0.6
+Carolina Dog,Foundation Stock Service,0.0,18.5,42.5,13.5,0.2,0.6,0.6,1.0,0.6
+Catahoula Leopard Dog,Foundation Stock Service,0.0,23.0,70.0,12.0,0.4,0.6,1.0,0.4,0.4
+Caucasian Shepherd Dog,Foundation Stock Service,0.0,26.5,134.5,11.0,0.6,0.8,0.4,0.4,0.2
+Cavalier King Charles Spaniel,Toy Group,18.0,12.5,15.5,13.5,0.4,0.4,0.4,1.0,0.8
+Central Asian Shepherd Dog,Foundation Stock Service,0.0,26.5,99.0,13.5,0.2,0.6,0.4,0.4,0.2
+Cesky Terrier,Terrier Group,185.0,12.0,17.0,13.5,0.4,0.4,0.6,0.6,0.4
+Chesapeake Bay Retriever,Sporting Group,45.0,23.5,67.5,11.5,0.6,0.8,0.8,0.6,0.4
+Chihuahua,Toy Group,33.0,6.5,6.0,15.0,0.2,0.4,0.6,0.4,0.6
+Chinese Crested,Toy Group,79.0,12.0,10.0,15.5,0.2,0.2,0.6,0.6,0.8
+Chinese Shar-Pei,Non-Sporting Group,64.0,19.0,45.0,10.0,0.2,0.8,0.6,0.2,0.4
+Chinook,Working Group,190.0,24.0,62.5,13.5,0.4,0.6,0.8,1.0,0.8
+Chow Chow,Non-Sporting Group,75.0,18.5,55.0,10.0,0.6,0.6,0.6,0.2,0.4
+Cirneco dell Etna,Hound Group,183.0,18.0,21.5,13.0,0.2,0.2,0.6,0.6,0.6
+Clumber Spaniel,Sporting Group,143.0,18.5,70.0,11.0,0.4,0.8,0.6,0.6,0.4
+Cocker Spaniel,Sporting Group,30.0,14.5,22.5,12.0,0.8,0.4,0.6,1.0,1.0
+Collie,Herding Group,38.0,24.0,62.5,13.0,0.6,0.6,0.6,0.8,0.8
+Coton de Tulear,Non-Sporting Group,81.0,10.0,11.5,17.0,0.8,0.4,0.6,0.8,1.0
+Croatian Sheepdog,Foundation Stock Service,0.0,18.0,36.5,13.5,0.2,0.4,1.0,1.0,0.4
+Curly-Coated Retriever,Sporting Group,162.0,26.0,70.0,11.0,0.2,0.4,0.8,0.4,0.4
+Czechoslovakian Vlcak,Foundation Stock Service,0.0,24.5,50.5,12.5,0.4,1.0,1.0,0.2,0.2
+Dachshund,Hound Group,12.0,7.0,17.5,14.0,0.4,0.4,0.6,0.6,0.6
+Dalmatian,Non-Sporting Group,56.0,22.5,53.0,12.0,0.4,1.0,0.8,0.6,0.6
+Dandie Dinmont Terrier,Terrier Group,176.0,9.5,21.0,13.5,0.8,0.2,0.6,0.4,0.4
+Danish-Swedish Farmdog,Foundation Stock Service,0.0,13.5,17.5,12.0,0.2,0.4,0.8,1.0,0.8
+Deutscher Wachtelhund,Foundation Stock Service,0.0,19.5,47.5,13.0,0.4,0.8,0.6,1.0,0.8
+Doberman Pinscher,Working Group,17.0,26.0,82.5,11.0,0.2,0.8,1.0,1.0,0.6
+Dogo Argentino,Working Group,0.0,25.5,90.0,12.0,0.2,0.2,1.0,1.0,0.8
+Dogue de Bordeaux,Working Group,67.0,25.0,104.5,6.5,0.2,0.8,0.6,0.6,0.6
+Drentsche Patrijshond,Foundation Stock Service,0.0,22.5,64.0,12.5,0.4,0.8,0.8,0.6,0.4
+Drever,Foundation Stock Service,0.0,13.5,37.5,15.0,0.2,0.4,0.6,0.2,0.6
+Dutch Shepherd,Miscellaneous Class,0.0,23.0,58.5,12.5,0.4,0.6,1.0,0.6,0.6
+English Cocker Spaniel,Sporting Group,52.0,16.0,30.0,13.0,0.6,0.4,0.6,1.0,0.8
+English Foxhound,Hound Group,188.0,23.0,67.5,11.5,0.2,0.8,0.8,0.6,0.8
+English Setter,Sporting Group,94.0,24.5,60.0,12.0,0.6,0.8,0.8,0.8,0.8
+English Springer Spaniel,Sporting Group,27.0,19.5,50.0,13.0,0.4,0.4,0.6,1.0,0.8
+English Toy Spaniel,Toy Group,135.0,10.0,11.0,11.0,0.6,0.6,0.6,0.4,0.6
+Entlebucher Mountain Dog,Herding Group,157.0,18.5,52.5,12.0,0.2,0.2,1.0,0.4,0.4
+Estrela Mountain Dog,Foundation Stock Service,0.0,26.5,104.5,12.0,0.4,0.6,0.4,0.8,0.8
+Eurasier,Foundation Stock Service,0.0,21.5,55.0,14.0,0.6,0.6,0.6,0.6,0.4
+Field Spaniel,Sporting Group,149.0,17.5,42.5,12.5,0.4,0.8,0.6,0.6,0.4
+Finnish Lapphund,Herding Group,161.0,18.5,43.0,13.5,0.4,0.6,0.6,1.0,0.4
+Finnish Spitz,Non-Sporting Group,184.0,17.5,26.5,14.0,0.4,0.6,1.0,0.6,0.8
+Flat-Coated Retriever,Sporting Group,91.0,23.5,65.0,9.0,0.4,0.8,1.0,1.0,0.8
+French Bulldog,Non-Sporting Group,4.0,12.0,28.0,11.0,0.2,0.8,0.4,0.6,0.6
+French Spaniel,Foundation Stock Service,0.0,22.5,55.0,11.0,0.6,0.4,0.6,0.8,0.8
+German Longhaired Pointer,Foundation Stock Service,0.0,25.0,67.5,13.0,0.2,0.8,0.8,1.0,0.8
+German Pinscher,Working Group,134.0,18.5,35.0,13.0,0.2,0.4,1.0,0.6,0.6
+German Shepherd Dog,Herding Group,2.0,24.0,70.0,8.5,0.4,0.8,0.6,1.0,0.6
+German Shorthaired Pointer,Sporting Group,9.0,25.0,67.5,11.0,0.4,0.8,1.0,1.0,0.8
+German Spitz,Foundation Stock Service,0.0,16.0,32.5,14.0,0.6,0.6,0.6,1.0,0.4
+German Wirehaired Pointer,Sporting Group,63.0,24.0,67.5,15.0,0.4,0.8,1.0,1.0,0.4
+Giant Schnauzer,Working Group,78.0,25.5,70.0,13.5,0.8,0.2,1.0,0.8,0.6
+Glen of Imaal Terrier,Terrier Group,174.0,13.0,36.0,12.5,0.6,0.4,0.6,0.4,0.6
+Golden Retriever,Sporting Group,3.0,22.5,65.0,11.0,0.4,0.6,1.0,1.0,0.8
+Gordon Setter,Sporting Group,115.0,25.0,62.5,12.5,0.4,0.6,1.0,0.4,0.4
+Grand Basset Griffon Vendeen,Hound Group,177.0,16.5,42.5,14.0,0.4,0.6,1.0,0.4,0.8
+Great Dane,Working Group,16.0,30.0,142.5,8.5,0.2,0.6,0.8,0.6,0.6
+Great Pyrenees,Working Group,66.0,28.5,92.5,11.0,0.4,0.6,1.0,0.4,0.4
+Greater Swiss Mountain Dog,Working Group,74.0,26.0,112.5,9.5,0.4,0.6,0.8,0.6,0.6
+Greyhound,Hound Group,145.0,28.5,65.0,11.5,0.2,0.4,0.8,0.4,0.8
+Hamiltonstovare,Foundation Stock Service,0.0,21.5,57.5,15.5,0.2,0.2,0.8,0.6,0.8
+Hanoverian Scenthound,Foundation Stock Service,0.0,20.0,89.0,12.0,0.2,0.2,0.6,0.4,0.4
+Harrier,Hound Group,189.0,20.0,50.0,13.5,0.4,0.4,1.0,0.8,0.8
+Havanese,Toy Group,24.0,9.5,10.0,15.0,0.6,0.4,0.6,0.8,1.0
+Hokkaido,Foundation Stock Service,0.0,19.0,55.0,13.5,0.4,0.6,0.8,0.4,0.6
+Hovawart,Foundation Stock Service,0.0,25.5,77.5,12.0,0.2,0.6,0.6,0.2,0.4
+Ibizan Hound,Hound Group,152.0,25.0,47.5,12.5,0.2,0.4,1.0,0.4,0.4
+Icelandic Sheepdog,Herding Group,155.0,17.0,27.5,13.0,0.4,0.6,0.8,1.0,0.8
+Irish Red and White Setter,Sporting Group,146.0,24.0,47.5,13.0,0.4,0.6,1.0,0.8,0.8
+Irish Setter,Sporting Group,77.0,26.0,70.0,13.5,0.6,0.6,1.0,0.6,1.0
+Irish Terrier,Terrier Group,116.0,18.0,26.0,14.0,0.2,0.4,0.6,0.6,0.6
+Irish Water Spaniel,Sporting Group,159.0,22.5,55.0,12.5,0.4,0.6,1.0,0.8,0.4
+Irish Wolfhound,Hound Group,76.0,31.0,112.5,7.0,0.4,0.6,0.6,0.4,0.6
+Italian Greyhound,Toy Group,73.0,14.0,10.5,14.5,0.2,0.6,0.6,0.4,0.2
+Jagdterrier,Foundation Stock Service,0.0,14.5,19.5,11.0,0.4,0.6,0.8,0.6,0.8
+Japanese Chin,Toy Group,104.0,9.5,9.0,11.0,0.4,0.6,0.6,0.4,0.4
+Japanese Spitz,Foundation Stock Service,0.0,13.5,17.5,13.0,0.4,0.4,0.6,0.8,0.8
+Jindo,Foundation Stock Service,0.0,20.5,18.5,14.0,0.4,0.6,0.8,0.4,0.4
+Kai Ken,Foundation Stock Service,0.0,17.5,32.5,13.5,0.2,0.6,0.8,0.4,0.4
+Karelian Bear Dog,Foundation Stock Service,0.0,21.5,46.5,12.0,0.2,0.6,0.4,0.2,0.2
+Keeshond,Non-Sporting Group,95.0,17.5,37.5,13.5,0.6,0.6,0.6,0.8,0.8
+Kerry Blue Terrier,Terrier Group,129.0,18.5,36.5,13.5,0.6,0.4,0.6,0.2,0.6
+Kishu Ken,Foundation Stock Service,0.0,20.5,45.0,12.0,0.2,0.6,0.8,0.4,0.4
+Komondor,Working Group,173.0,25.0,118.5,11.0,1.0,0.6,0.6,0.4,0.4
+Kromfohrlander,Foundation Stock Service,0.0,16.5,27.5,14.0,0.6,0.8,0.6,0.6,0.4
+Kuvasz,Working Group,163.0,28.0,92.5,11.0,0.4,0.8,0.6,0.4,0.4
+Labrador Retriever,Sporting Group,1.0,23.0,65.0,11.0,0.4,0.8,1.0,1.0,1.0
+Lagotto Romagnolo,Sporting Group,99.0,17.5,29.5,16.0,0.2,0.2,0.6,1.0,0.6
+Lakeland Terrier,Terrier Group,147.0,14.0,16.0,13.5,0.4,0.2,0.6,0.6,0.6
+Lancashire Heeler,Miscellaneous Class,0.0,11.0,13.0,13.5,0.2,0.6,0.8,0.8,0.8
+Lapponian Herder,Foundation Stock Service,0.0,19.0,70.0,12.0,0.4,0.6,0.6,1.0,0.4
+Leonberger,Working Group,93.0,28.5,130.0,9.0,0.8,0.8,0.6,1.0,0.8
+Lhasa Apso,Non-Sporting Group,71.0,10.5,15.0,13.5,0.6,0.2,0.6,0.4,0.4
+Lowchen,Non-Sporting Group,168.0,13.0,15.0,15.0,0.2,0.2,0.6,0.6,1.0
+Maltese,Toy Group,37.0,8.0,7.0,13.5,0.8,0.2,0.6,0.6,1.0
+Manchester Terrier (Standard),Terrier Group,133.0,15.5,17.5,16.0,0.4,0.4,0.6,0.8,0.6
+Manchester Terrier (Toy),Toy Group,133.0,11.0,12.0,16.0,0.4,0.4,0.6,0.8,0.6
+Mastiff,Working Group,29.0,28.5,155.0,8.0,0.2,0.4,0.6,0.6,0.6
+Miniature American Shepherd,Herding Group,34.0,15.5,30.0,12.5,0.8,1.0,0.8,1.0,0.8
+Miniature Bull Terrier,Terrier Group,110.0,12.0,28.5,12.0,0.2,0.4,0.8,0.4,0.6
+Miniature Pinscher,Toy Group,70.0,11.5,9.0,14.0,0.2,0.2,0.6,0.4,0.6
+Miniature Schnauzer,Terrier Group,19.0,13.0,15.5,13.5,1.0,0.2,0.6,1.0,0.6
+Mountain Cur,Foundation Stock Service,0.0,21.0,45.0,11.5,0.2,0.6,1.0,0.2,0.4
+Mudi,Miscellaneous Class,0.0,17.0,23.5,13.0,0.2,0.4,1.0,1.0,0.4
+Neapolitan Mastiff,Working Group,102.0,27.5,130.0,8.0,0.4,0.6,0.6,0.2,0.2
+Nederlandse Kooikerhondje,Sporting Group,150.0,15.5,25.0,13.5,0.4,0.6,0.6,1.0,0.4
+Newfoundland,Working Group,40.0,27.0,125.0,9.5,0.4,0.6,0.6,0.8,0.8
+Norfolk Terrier,Terrier Group,126.0,9.5,11.5,14.0,0.4,0.6,0.6,0.6,0.8
+Norrbottenspets,Miscellaneous Class,0.0,17.0,25.0,15.5,0.4,0.4,0.8,0.4,0.6
+Norwegian Buhund,Herding Group,165.0,17.5,33.0,13.5,0.4,0.6,0.8,0.8,0.8
+Norwegian Elkhound,Hound Group,97.0,20.5,51.5,13.5,0.4,0.6,0.6,0.6,0.8
+Norwegian Lundehund,Non-Sporting Group,191.0,13.5,25.0,13.5,0.4,0.6,0.8,0.6,0.4
+Norwich Terrier,Terrier Group,108.0,10.0,12.0,13.5,0.4,0.6,0.8,0.6,0.8
+Nova Scotia Duck Tolling Retriever,Sporting Group,83.0,19.0,44.0,13.0,0.4,0.6,1.0,0.8,0.8
+Old English Sheepdog,Herding Group,72.0,21.5,63.0,11.0,0.6,0.6,0.6,0.4,0.6
+Otterhound,Hound Group,182.0,25.0,90.0,11.5,0.4,0.6,0.6,0.2,0.6
+Papillon,Toy Group,54.0,9.5,7.5,15.0,0.4,0.6,0.6,1.0,1.0
+Parson Russell Terrier,Terrier Group,117.0,13.5,15.0,14.0,0.4,0.4,1.0,0.6,0.8
+Pekingese,Toy Group,92.0,7.5,14.0,13.0,0.6,0.6,0.4,0.2,0.4
+Pembroke Welsh Corgi,Herding Group,13.0,11.0,29.0,12.5,0.4,0.8,0.8,0.6,1.0
+Perro de Presa Canario,Foundation Stock Service,0.0,24.0,97.0,10.0,0.2,0.6,0.4,0.2,0.8
+Peruvian Inca Orchid,Miscellaneous Class,0.0,18.0,32.0,13.0,0.2,0.8,0.8,0.6,0.4
+Petit Basset Griffon Vendeen,Hound Group,156.0,14.0,45.0,13.0,0.4,0.4,0.8,0.4,0.8
+Pharaoh Hound,Hound Group,172.0,23.0,47.5,13.0,0.4,0.6,0.8,0.4,0.4
+Plott Hound,Hound Group,171.0,24.0,57.5,13.0,0.2,0.4,0.8,0.4,0.6
+Pointer,Sporting Group,114.0,25.5,60.0,14.5,0.4,0.4,0.8,0.6,0.6
+Polish Lowland Sheepdog,Herding Group,170.0,18.5,40.0,13.0,0.8,0.6,0.8,0.2,0.2
+Pomeranian,Toy Group,23.0,6.5,5.0,14.0,0.6,0.6,0.6,0.6,0.6
+Poodle (Miniature),Non-Sporting Group,7.0,12.5,16.0,14.0,1.0,0.2,0.6,1.0,0.8
+Poodle (Standard),Non-Sporting Group,7.0,15.0,57.5,14.0,1.0,0.2,0.6,1.0,0.8
+Poodle (Toy),Toy Group,7.0,10.0,5.0,14.0,1.0,0.2,0.6,1.0,0.8
+Porcelaine,Foundation Stock Service,0.0,22.5,58.5,12.5,0.2,0.8,0.8,1.0,0.8
+Portuguese Podengo,Miscellaneous Class,0.0,22.0,50.5,11.0,0.4,0.8,0.8,0.6,0.4
+Portuguese Podengo Pequeno,Hound Group,154.0,10.0,11.0,13.5,0.4,0.6,0.8,0.6,0.8
+Portuguese Pointer,Foundation Stock Service,0.0,21.0,47.0,14.0,0.2,0.4,0.8,1.0,0.8
+Portuguese Sheepdog,Foundation Stock Service,0.0,19.0,48.0,12.5,0.4,0.4,0.8,1.0,0.4
+Portuguese Water Dog,Working Group,50.0,20.0,47.5,12.0,0.8,0.6,0.8,0.8,0.6
+Pudelpointer,Foundation Stock Service,0.0,24.0,57.5,14.0,0.2,0.6,0.6,1.0,0.8
+Pug,Toy Group,28.0,11.5,16.0,14.0,0.4,0.8,0.6,0.6,0.8
+Puli,Herding Group,160.0,16.0,30.0,12.5,1.0,0.2,0.6,0.4,0.4
+Pumi,Herding Group,151.0,17.0,25.5,12.5,0.2,0.2,0.8,0.8,0.6
+Pyrenean Mastiff,Foundation Stock Service,0.0,28.0,130.0,11.5,0.6,0.6,0.4,0.4,0.8
+Pyrenean Shepherd,Herding Group,181.0,18.0,22.5,18.0,0.4,0.6,0.8,0.6,0.4
+Rafeiro do Alentejo,Foundation Stock Service,0.0,27.0,104.5,13.0,0.4,0.6,0.4,1.0,0.8
+Rat Terrier,Terrier Group,86.0,14.0,17.5,15.0,0.4,0.6,0.6,0.8,0.8
+Redbone Coonhound,Hound Group,142.0,24.0,60.0,13.5,0.4,0.6,0.6,0.8,0.8
+Rhodesian Ridgeback,Hound Group,41.0,25.5,70.0,10.0,0.4,0.6,0.6,0.4,0.6
+Romanian Mioritic Shepherd Dog,Foundation Stock Service,0.0,25.5,115.0,13.0,0.4,0.4,0.6,0.4,0.2
+Rottweiler,Working Group,8.0,24.5,107.5,9.5,0.4,0.6,0.6,0.6,0.4
+Russell Terrier,Terrier Group,82.0,14.0,12.0,13.0,0.4,0.4,1.0,0.6,0.8
+Russian Toy,Miscellaneous Class,0.0,9.5,6.5,13.0,0.4,0.2,0.6,0.6,0.8
+Russian Tsvetnaya Bolonka,Foundation Stock Service,0.0,11.0,7.5,14.0,0.6,0.2,0.6,0.6,0.8
+Saint Bernard,Working Group,48.0,26.5,155.0,9.0,0.4,0.6,0.6,0.6,0.8
+Saluki,Hound Group,120.0,24.5,47.5,13.5,0.2,0.4,0.8,0.4,0.4
+Samoyed,Working Group,59.0,21.5,50.0,13.0,0.6,0.6,0.8,0.4,0.8
+Schapendoes,Foundation Stock Service,0.0,18.0,40.5,13.5,0.4,0.6,0.6,0.8,0.6
+Schipperke,Non-Sporting Group,105.0,11.5,13.0,13.0,0.4,0.6,0.8,0.4,0.6
+Scottish Deerhound,Hound Group,158.0,30.0,92.5,9.5,0.2,0.6,0.6,0.4,0.6
+Scottish Terrier,Terrier Group,57.0,10.0,20.0,12.0,0.6,0.4,0.6,0.4,0.6
+Sealyham Terrier,Terrier Group,164.0,10.5,23.5,13.0,0.6,0.6,0.6,0.4,0.6
+Segugio Italiano,Foundation Stock Service,0.0,22.0,50.5,12.0,0.4,0.6,0.4,1.0,0.8
+Shetland Sheepdog,Herding Group,25.0,14.5,21.5,13.0,0.6,0.6,0.6,1.0,0.4
+Shiba Inu,Non-Sporting Group,44.0,14.5,24.0,14.5,0.4,0.6,0.6,0.4,0.4
+Shih Tzu,Toy Group,20.0,10.0,12.5,14.0,0.8,0.2,0.6,0.6,0.8
+Shikoku,Foundation Stock Service,0.0,19.5,45.0,11.0,0.4,0.8,0.6,0.4,0.6
+Siberian Husky,Working Group,14.0,22.0,47.5,13.0,0.4,0.6,0.8,0.4,0.8
+Silky Terrier,Toy Group,112.0,9.5,9.5,14.0,0.6,0.4,0.6,0.6,0.6
+Skye Terrier,Terrier Group,178.0,10.0,24.0,13.0,0.8,0.6,0.6,0.4,0.4
+Sloughi,Hound Group,192.0,26.5,42.5,12.5,0.4,0.2,0.6,0.4,0.4
+Slovakian Wirehaired Pointer,Foundation Stock Service,0.0,24.5,57.5,13.5,0.2,0.4,0.8,0.4,1.0
+Slovensky Cuvac,Foundation Stock Service,0.0,25.5,82.5,12.0,0.4,0.8,0.4,0.4,0.2
+Slovensky Kopov,Foundation Stock Service,0.0,18.0,38.5,12.5,0.2,0.6,0.6,1.0,0.6
+Small Munsterlander Pointer,Foundation Stock Service,0.0,20.5,50.0,13.0,0.2,0.6,1.0,0.6,0.8
+Smooth Fox Terrier,Terrier Group,123.0,15.5,16.5,13.5,0.4,0.4,0.8,0.6,0.8
+Soft Coated Wheaten Terrier,Terrier Group,53.0,18.0,35.0,13.0,0.6,0.2,0.8,0.4,0.6
+Spanish Mastiff,Foundation Stock Service,0.0,31.5,165.0,11.0,0.4,0.6,0.4,0.2,0.8
+Spanish Water Dog,Herding Group,153.0,17.5,40.0,13.0,1.0,0.2,0.8,1.0,0.4
+Spinone Italiano,Sporting Group,109.0,24.5,57.5,11.0,0.4,0.8,0.8,0.6,0.6
+Stabyhoun,Foundation Stock Service,0.0,20.0,50.0,14.0,0.2,0.6,0.8,0.8,0.6
+Staffordshire Bull Terrier,Terrier Group,80.0,15.0,31.0,13.0,0.4,0.4,0.8,0.2,0.8
+Standard Schnauzer,Working Group,89.0,18.5,37.5,14.5,0.6,0.2,0.6,0.4,0.8
+Sussex Spaniel,Sporting Group,180.0,14.0,40.0,14.0,0.6,0.6,0.6,0.4,0.4
+Swedish Lapphund,Foundation Stock Service,0.0,18.0,37.5,13.0,0.4,0.6,0.6,0.2,0.6
+Swedish Vallhund,Herding Group,169.0,12.5,27.5,13.5,0.2,0.6,1.0,1.0,0.8
+Taiwan Dog,Foundation Stock Service,0.0,18.5,33.0,11.0,0.4,0.6,1.0,0.8,0.4
+Teddy Roosevelt Terrier,Miscellaneous Class,0.0,11.0,16.5,15.0,0.4,0.6,0.8,1.0,0.8
+Thai Ridgeback,Foundation Stock Service,0.0,22.0,55.0,12.5,0.2,0.6,0.8,0.4,0.4
+Tibetan Mastiff,Working Group,131.0,25.0,110.0,11.0,0.6,0.6,0.6,0.4,0.6
+Tibetan Spaniel,Non-Sporting Group,119.0,10.0,12.0,13.5,0.4,0.6,0.4,0.6,0.6
+Tibetan Terrier,Non-Sporting Group,96.0,15.5,24.0,15.5,0.6,0.6,0.8,0.4,0.4
+Tornjak,Foundation Stock Service,0.0,25.5,86.0,13.0,0.6,0.8,0.4,0.8,0.6
+Tosa,Foundation Stock Service,0.0,22.5,150.0,11.0,0.2,0.4,0.4,0.6,0.4
+Toy Fox Terrier,Toy Group,111.0,10.0,5.0,14.0,0.4,0.4,0.8,1.0,0.8
+Transylvanian Hound,Foundation Stock Service,0.0,24.0,66.0,12.0,0.4,0.8,1.0,0.2,0.8
+Treeing Tennessee Brindle,Foundation Stock Service,0.0,20.0,40.0,11.0,0.4,0.4,0.6,0.4,0.6
+Treeing Walker Coonhound,Hound Group,137.0,23.5,60.0,12.5,0.2,0.6,0.6,0.4,0.8
+Vizsla,Sporting Group,31.0,22.5,50.0,13.0,0.4,0.6,0.8,1.0,0.8
+Weimaraner,Sporting Group,36.0,25.0,60.0,11.5,0.4,0.6,1.0,1.0,0.8
+Welsh Springer Spaniel,Sporting Group,128.0,18.0,45.0,13.5,0.4,0.6,0.8,0.8,0.8
+Welsh Terrier,Terrier Group,107.0,15.5,20.0,13.5,0.6,0.4,0.8,0.6,1.0
+West Highland White Terrier,Terrier Group,42.0,10.5,17.5,14.0,0.8,0.6,0.6,0.6,0.8
+Wetterhoun,Foundation Stock Service,0.0,22.0,62.5,13.0,0.2,0.4,0.6,0.2,0.4
+Whippet,Hound Group,61.0,20.0,23.0,13.5,0.2,0.4,0.6,0.4,0.4
+Wire Fox Terrier,Terrier Group,101.0,15.5,16.5,13.5,0.4,0.2,0.6,0.6,0.6
+Wirehaired Pointing Griffon,Sporting Group,65.0,21.0,55.0,13.5,0.4,0.6,1.0,0.6,0.6
+Wirehaired Vizsla,Sporting Group,167.0,13.0,55.0,13.0,0.2,0.6,0.8,0.6,0.6
+Working Kelpie,Foundation Stock Service,0.0,22.0,44.0,13.5,0.2,0.6,0.8,0.4,0.6
+Xoloitzcuintli,Non-Sporting Group,140.0,18.0,22.0,15.5,0.2,0.2,0.8,0.6,0.6
+Yakutian Laika,Foundation Stock Service,0.0,22.0,47.5,11.0,0.4,0.6,0.8,0.2,0.4
+Yorkshire Terrier,Toy Group,10.0,7.5,7.0,13.0,1.0,0.2,0.6,0.2,0.8
