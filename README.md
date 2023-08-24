@@ -3,6 +3,8 @@
 
 ## “Pawfect Match”
 
+![Stock Image](Local/Images/stock.jpg)
+
 ### Team Info:
 - Group 7:
     * [Bijoyeta Kayal](https://github.com/BijoyetaK)
@@ -18,7 +20,6 @@
 
 ### Application Link: https://awesome-pawsome.streamlit.app/
  
-![Stock Image](Local/Images/stock.jpg)
 
 ### Project Overview: 
 Using various machine learning models and data sets, we can help people find the perfect dog using the convenient and user-friendly web application. We have built models to predict and recommend dog breeds based on both an image recognition and a user characteristic selection/ input. To round out the application, we can compare dogs by their characteristics and have a map to help locate dogs/ shelters near you. We can also store user data for updates.
