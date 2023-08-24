@@ -16,9 +16,9 @@
     * [Sanjana Islam](https://github.com/Sanjana2000)
     
 
-### Repository Link: https://github.com/TinTesla/Project_4---Group_7
+### [Repository Link](https://github.com/TinTesla/Project_4---Group_7)
 
-### Application Link: https://awesome-pawsome.streamlit.app/
+### [Streamlit UP Application](https://awesome-pawsome.streamlit.app/)
  
 
 ### Project Overview: 
