@@ -149,7 +149,7 @@ img_predictor = pbr.imagePredictor()
 breed_lookup = get_breed_lookup()
 comparison_cols = ["max_height","energy_level_value","trainability_value","demeanor_value"]
 
-st.header('Welcome to Dog Breed Detector')
+#st.header('Welcome to Dog Breed Detector')
 st.subheader('Please upload a dog picture')
 
 

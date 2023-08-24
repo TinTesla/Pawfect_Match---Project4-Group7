@@ -17,10 +17,10 @@ st.sidebar.header('Find Your Match by Group 📈')
 
 # setting path for model file
 root_directory = os.getcwd()
-model_rf_group_filename = 'Models/dog_app_rf_group_pred'
-model_rf_breed_filename = 'Models/dog_app_rf_breed_pred'
+model_rf_group_filename = 'models/dog_app_rf_group_pred'
+model_rf_breed_filename = 'models/dog_app_rf_breed_pred'
 
-st.image('Images/user_questionaire_app_image2.jpg')
+st.image('image/user_questionaire_app_image2.jpg')
 st.subheader("Dog Breed and Group Match Prediction App")
 st.markdown("##### This app predicts the pawfect Dog Match for you! :dog: ")
 
@@ -122,6 +122,7 @@ def group_prediction(user_input_df):
     # load the model from disk
     # filename = 'dog_app_rf_group_pred.sav'
     # loaded_model_rf = pickle.load(open(model_rf_group_filename, 'rb'))
+    print(os.listdir('models'))
     with open(model_rf_group_filename, 'rb') as file:
         loaded_model_rf = pickle.load(file)
 
@@ -143,13 +144,15 @@ def breed_prediction(user_input_df):
     with open(model_rf_breed_filename, 'rb') as file:
         loaded_model_breed_pred = pickle.load(file)
 
+    # loaded_model_breed_pred = pickle.load(open(model_rf_breed_filename, 'rb'))
+
     input_array = user_input_df.values.reshape(1, -1) # Reshape to match the model's input shape
 
     # Make predictions
     predicted_class = loaded_model_breed_pred.predict(input_array)
 
     # Display results
-    dog_map_breed_df = pd.read_csv('Data/Output/dog_breed_mapping.csv')
+    dog_map_breed_df = pd.read_csv('Data/output/dog_breed_mapping.csv')
     result = dog_map_breed_df['breed'].iloc[predicted_class]
     print(result)
     # st.write("Predicted Class:", dog_map_breed_df.iloc[predicted_class])
@@ -157,7 +160,7 @@ def breed_prediction(user_input_df):
 
 # read in data for mapping
 dog_map_group_df = pd.read_csv('Data/output/dog_group_mapping.csv')
-dog_map_breed_df = pd.read_csv('Data/Output/dog_breed_mapping.csv')
+dog_map_breed_df = pd.read_csv('Data/output/dog_breed_mapping.csv')
 
 t1,t2 = st.tabs(["###### Predict Group  ","###### Predict Breed"])
 

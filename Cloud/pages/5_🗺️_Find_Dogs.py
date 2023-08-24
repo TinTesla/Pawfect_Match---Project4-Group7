@@ -54,8 +54,8 @@ def map_func(startzip, startlat, startlon):
     locations_name = shelters_df_filtered['name']
 
 
-    fig = px.scatter_mapbox(shelters_df_filtered, lat="latitude", lon="longitude", hover_name="name",hover_data=['city'],mapbox_style="open-street-map",width=725,height=800,
-                            color_discrete_sequence=["blue"],size ='size',zoom=6,opacity=0.5,title='Adoption Shelters around you')
+    fig = px.scatter_mapbox(shelters_df_filtered, lat="latitude", lon="longitude", hover_name="name",hover_data=['city','zip'],mapbox_style="open-street-map",width=725,height=800,
+                            color_discrete_sequence=["blue"],size ='size',zoom=6,opacity=0.4,title='Adoption Shelters around you')
 
     fig.update_layout(margin={"r": 0, "l": 0, "b": 0},showlegend=False)
     return fig
