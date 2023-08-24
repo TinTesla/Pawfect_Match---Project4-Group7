@@ -18,7 +18,7 @@
 
 ### [Repository Link](https://github.com/TinTesla/Project_4---Group_7)
 
-### [Streamlit UP Application](https://awesome-pawsome.streamlit.app/)
+### [Streamlit UI Application](https://awesome-pawsome.streamlit.app/)
  
 
 ### Project Overview: 
