@@ -1,15 +1,23 @@
 
 ## UC Berkeley Data Analytics Boot Camp
 
-### Project 4 – Focus on Machine Learning
+## “Pawfect Match”
 
-### Group 7: Bijoyeta Kayal, Chanelle Gonzalez, Crimson Amaro, Noureddine Belhaj, Sanjana Islam, Sherry Ma, Tristan Marcum
+### Team Info:
+- Group 7:
+    * [Bijoyeta Kayal](https://github.com/BijoyetaK)
+    * [Chanelle Gonzalez](https://github.com/chanellelgonzalez)
+    * [Crimson Amaro](https://github.com/csamaro)
+    * [Noureddine Belhaj](https://github.com/NoorBelhaj)
+    * [Sherry Ma](https://github.com/SH-Mars)
+    * [Tristan Marcum](https://github.com/tintesla)
+    * [Sanjana Islam](https://github.com/Sanjana2000)
+    
 
 ### Repository Link: https://github.com/TinTesla/Project_4---Group_7
 
 ### Application Link: https://awesome-pawsome.streamlit.app/
-
-## Title: “Pawfect Match” 
+ 
 ![Stock Image](Local/Images/stock.jpg)
 
 ### Project Overview: 
@@ -18,8 +26,10 @@ Using various machine learning models and data sets, we can help people find the
 ### Data Overview: 
 -	Kaggle for images used in the image recognition modeling: https://www.kaggle.com/competitions/dog-breed-identification/data 
 -	American Kennel Club (AKC) for breed features data frame and images for display in application: https://github.com/tmfilho/akcdata
+-	Kaggle for animal shelters in the US and zipcodes/latitude/longitude: https://www.kaggle.com/datasets/aaronschlegel/petfinder-animal-shelters-database https://www.kaggle.com/datasets/joeleichter/us-zip-codes-with-lat-and-long
 -	The AKC data frame includes 277 rows with breed names and 13 columns that are a mix of numerical and categorical values. Feature set list: popularity, group, min and max height, weight, expectancy, grooming frequency, shedding, energy level, trainability, and demeanor.
-- Basic cleaning was needed to correct for some inconsistancies
+- Basic cleaning was needed to correct for some inconsistancies.
+- Webscraped AKC website using BeautifulSoup to collect and attach each breed's image to it's respective breed in the AKC dataset.
 - Sampling bias by group was noticed in the Kaggle data set.
 
 ![sample_bias](Local/Images/sample_bias.jpg)
@@ -41,7 +51,7 @@ We decided on Streamlit for our user interface. It was simple to layout and stra
 -	Find Your Match by Feature Selection
     - User selects preferred feature ranges from a sliding scale and is provided best projection of group and/ or breed. Overall accuracy of 57% by breed and 100% by group. 
 -	Find Dogs
-    - Map with nearby animal shelters based on the user’s selected location.
+    - Interactive map that displays nearby animal shelters based on the user’s selected location/zipcode (US only).
 
 ![menu](Local/Images/menu.jpg)
 ![home](Local/Images/home.jpg)
@@ -54,7 +64,7 @@ Both models were very successful in predicting an accurate dog match.
 
 ### Future Plans Overview: 
 This application has limitless options for future development. Plans are, but not limited to:
--	Expanding on Shelter options, more details, allowing for shelters to connect and provide details on their adoptable pets.
+-	Expanding the shelter map to include areas outside the US, adding contact information, allowing for shelters to connect and provide details on their adoptable pets.
 -	Social options for users to share, connect and be alerted to dogs near them.
 -	Additional dog breed features like health issues, cost, etc… 
 
