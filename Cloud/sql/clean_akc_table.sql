@@ -1,0 +1,17 @@
+-- creating a new clean AKC info table 
+-- create table if not exists Dog_Info_AKC as 
+-- select src.* from 
+-- (select * from DOG_INFO where Dog_species not in
+-- (select dog_species from cleaned_class)
+-- union
+-- select * from cleaned_class) as src
+-- 
+-- 
+-- 
+-- label cleaned table
+-- select * from DOG_INFO 
+-- where classlabel in 
+-- (select di.classlabel from DOG_INFO as di
+-- group by di.classlabel
+-- having count(di.Dog_species) > 1)
+

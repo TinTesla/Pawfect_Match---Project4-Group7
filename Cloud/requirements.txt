@@ -1,0 +1,13 @@
+pandas
+numpy
+keras
+tensorflow
+scikit-learn==1.2.2
+Pillow
+streamlit
+plotly_express
+plotly
+matplotlib
+folium==0.14.0
+streamlit-folium==0.13.0
+requests
