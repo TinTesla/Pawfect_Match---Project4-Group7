@@ -136,7 +136,7 @@ This application has limitless options for future development. Plans are, but no
 ### Model Validation: 
 - A sample size of 10 images per 120 breed class was used to validate both the models where the following results were capture: 
 - Prediction outcome per breed(bar chart) showing how many images per breed were a match and no match with the expected breed. 
-- Prediction misses -a heatmap matrx - displaying the instances where both model makes mistakes in indentifying the correct breed as expected.  
+- Prediction misses -a heatmap matrx - displaying the instances where both model makes mistakes in identifying the correct breed as expected.  
 - While both the models made incorrect predictions for a handful of species(Great Dane, Pyrenees, Swiss Mountain Dog, Huskies.. ), the Adam optimized model was observed to have made incorrect predictions for some more breeds. 
 - The Validation accuracy and loss reduction curves were smoother than in case of SGD optimized model as compared to Adam optimized one which had more spikes. 
 
