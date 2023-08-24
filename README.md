@@ -150,18 +150,18 @@ We needed a multiclass type of prediction for the models.
 ### Data Preparation: 
 The first step of this modeling was to generate synthetic data to train the model especially for the breed prediction. The original dataset contained 277 lines and each breed appeared one single time in the dataset. We generated additional data using: 
 
-    1. Sample method - df.sample(frac = 100,replace=True) on the dataset to generate additional rows.
-    2. Applied feature set changes to show different values. For example, minimum height was changed throughout the whole dataset with random values while keeping consistency of the data and the new value has to be below max height.
+   1. Sample method - df.sample(frac = 100,replace=True) on the dataset to generate additional rows.
+   2. Applied feature set changes to show different values. For example, minimum height was changed throughout the whole dataset with random values while keeping consistency of the data and the new value has to be below max height.
 
 We also tried alternative options for scaling methods for the feature set, including: Standard, MinMax, Robust Scaler, Power and Quantile Transformer.
 
 ### Model Optimization: 
  We utilized Hyperparameter Tuning, as well. As we found, Random Forest has several hyperparameters that can be tuned to optimize its performance, such as:
 
-    - n_estimators: The number of decision trees in the forest.
-    - max_depth: The maximum depth of each decision tree.
-    - min_samples_split: The minimum number of samples required to split an internal node.
-    - min_samples_leaf: The minimum number of samples required to be at a leaf node.
+   - n_estimators: The number of decision trees in the forest.
+   - max_depth: The maximum depth of each decision tree.
+   - min_samples_split: The minimum number of samples required to split an internal node.
+   - min_samples_leaf: The minimum number of samples required to be at a leaf node.
 
 ### Model Validation:
 We tried several different modeling options and our initial attempts yielded an accuracy was 0%. This is normal, as the model was testing on data it never was exposed to. We received satisfactory results using Random Forest and Decision Tree modeling. However, we also tried neural network modeling to see if we can improve on the accuracy by introducing layers and dropping normalization, however the results remained the same. Ultimately, the Random Forest model gave the best accuracy for group and breed prediction.     
